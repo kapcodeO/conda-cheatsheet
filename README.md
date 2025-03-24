@@ -16,7 +16,7 @@
 
 ## 📂 File Structure
 
-- **`conda-commands.txt`** → Contains all Conda commands neatly categorized.  
+- **`conda-commands.md`** → Contains all Conda commands neatly categorized.  
 - **`README.md`** → This file, explaining features & usage.  
 - **`LICENSE`** → Open-source license for this project.  
 
@@ -48,7 +48,7 @@ conda env create -f environment.yaml
 ---
 
 ## 📜 Full Conda Commands List
-For a **detailed list of Conda commands**, check out [`conda-commands.txt`](./conda-commands.txt).
+For a **detailed list of Conda commands**, check out [`conda-commands.md`](./conda-commands.md).
 
 ---
 
